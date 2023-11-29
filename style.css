@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+.headingDiv{
+font-size: 13px;
+float: none;
+background-color: white;
+padding: 10px;
+border-radius: 20px;
+color: black;
+box-shadow: 5px 5px 5px purple;
+}
+.copyrightFooter{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+    line-height: 3;
+    text-align: center;
+}
+.result{
+    box-shadow: 5px 5px 5px gray;
+    font-size: 20px;
+}
+.result span{
+    white-space: pre-line;
+}
+canvas{
+    border-radius: 20px;
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px gray;
+margin-top: 160px;
+}
